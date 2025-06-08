@@ -1,6 +1,6 @@
 # Aerospace, Math, and Physics Lab
 
-I'm a student of Aerospace Electronic Engineering, building a personal portfolio of projects that combine aerospace systems, physics, and applied mathematics.
+This space documents independent projects exploring aerospace systems, applied mathematics, and fundamental physics.
 
 ## Focus Areas
 - Flight dynamics and control systems
@@ -9,10 +9,10 @@ I'm a student of Aerospace Electronic Engineering, building a personal portfolio
 - Applied mathematics for engineering (linear algebra, differential equations, Laplace transforms)
 
 ## Goals
-To build the mindset and skills of a scientist through independent projects, simulations, and experiments — even beyond formal education.
+To investigate and simulate real-world systems using scientific methods, mathematical modeling, and engineering tools.
 
 ## Current Projects
-Coming soon: 
-- A simple flight system model
-- Physics-based simulation of a falling body with air resistance
-- Signal filtering using Laplace transform concepts
+Coming soon:
+- Simulation of a basic flight control system
+- Physics-based model of a falling body with drag
+- Signal filtering using Laplace and Fourier methods
